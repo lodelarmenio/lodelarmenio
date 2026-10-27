@@ -3,7 +3,7 @@ import type { SocialLink } from '../types';
 
 export const site = {
   name: 'Lo del Armenio',
-  legalName: 'Lo del Armenio S.A.S',
+  legalName: 'LO DEL ARMENIO S.A.S',
   email: 'lodelarmenioresto@gmail.com',
   phone: '+54 9 351 359 5304',
   address: ['Libertad 1544, Córdoba Capital, Argentina'],
