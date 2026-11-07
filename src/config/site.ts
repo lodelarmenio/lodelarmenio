@@ -7,6 +7,7 @@ export const site = {
   email: 'lodelarmenioresto@gmail.com',
   phone: '+54 9 351 359 5304',
   address: ['Libertad 1544, Córdoba Capital, Argentina'],
+  cuit: '30-71787634-9',
 };
 
 export const socials: SocialLink[] = [
