@@ -8,6 +8,6 @@
 .footer__pattern { height: 44px; background-repeat: repeat-x; background-size: auto 44px; }
 
 @media (min-width: 900px) {
-  .footer__list { grid-template-columns: repeat(4, auto); justify-content: space-between; gap: 0; }
+  .footer__list { grid-template-columns: repeat(5, auto); justify-content: space-between; gap: 0; }
   .footer__list li + li { padding-left: 24px; border-left: 1px solid rgba(236, 226, 207, 0.25); }
 }
