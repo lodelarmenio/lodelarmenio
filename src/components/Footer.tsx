@@ -12,6 +12,7 @@ export default function Footer() {
           <li><a href={`mailto:${site.email}`}>{site.email}</a></li>
           <li><a href={`tel:${site.phone.replace(/\s/g, '')}`}>{site.phone}</a></li>
           <li><span>{site.address[0]}<br />{site.address[1]}</span></li>
+          <li><span>{site.cuit}</span></li>
         </ul>
       </div>
     </footer>
